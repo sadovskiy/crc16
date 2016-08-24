@@ -1,4 +1,12 @@
-﻿#ifndef MAINWINDOW_HPP
+﻿/*!
+  \file
+  \brief Заголовочный файл класса главного окна приложения.
+
+
+  Тут находятся определения класса MainWindow описывающего работу главного окна.
+  Расчёт контрольной суммы осущесвляется в классе CRC16Modbus.
+  */
+#ifndef MAINWINDOW_HPP
 #define MAINWINDOW_HPP
 
 #include <QMainWindow>
